@@ -1,0 +1,28 @@
+User
+====
+
+Documentation: How to set up an account in Amphora
+--------------------------------------------------
+
+Setting up an account in Amphora involves a few steps that need to be followed carefully. Here is a step-by-step guide on how to set up an account in Amphora:
+
+1. Accessing Giles: 
+The first step is to access Giles, which is where the Amphora project is located. You will need to have access to Giles to proceed further. 
+
+2. Admin Approval:
+Once you are in Dials, an admin (who can be the project manager or another designated person) needs to grant you access to the Giles. 
+
+3. Access to Giles:
+You will then need to have access to Giles, which is a requirement for accessing Amphora. 
+
+4. Logging into Github: 
+To log into Amphora, you will need to create a GitHub account if you don't already have one. Logging in to Github is necessary to access Amphora.
+
+5. Request for Access: 
+Upon logging into Github, you will be prompted with a message that asks whether you want to grant access to Amphora. You will need to approve this request.
+
+6. Contacting the Admin:
+After granting access, you will see a message to contact the admin. Please avoid doing so and instead send an email to the admin.
+
+7. Approval from Admin:
+Once you send an email to the admin, they will approve your account. Once the account is approved, you will see a welcome message on the Amphora page, and you will be able to access the project.
